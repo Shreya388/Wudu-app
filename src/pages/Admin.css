@@ -1,0 +1,65 @@
+.dashboard {
+  background-color: #eeeeee !important;
+}
+
+.active-link {
+  color: #222 !important;
+  background: #ded5e2;
+  margin: 10px 0;
+  padding: 11px 15px;
+  border-radius: 5px;
+  font-weight: bold !important;
+}
+
+.link {
+  color: #222 !important;
+  margin: 10px 0;
+  padding: 11px 15px;
+  border-radius: 5px;
+  font-weight: bold !important;
+}
+
+.link:hover {
+  color: #222 !important;
+  background: #ded5e2;
+  margin: 10px 0;
+  padding: 11px 15px;
+  border-radius: 5px;
+  font-weight: bold !important;
+}
+
+.delete-btn {
+  background: transparent !important;
+  color: #424242 !important;
+  border: 1px solid #424242 !important;
+  border-radius: 3px !important;
+  margin-left: 10px;
+}
+
+.edit-btn {
+  background: transparent !important;
+  color: #2d5269 !important;
+  border: 1px solid #2d5269 !important;
+  border-radius: 3px !important;
+}
+
+.posts-text{
+  text-align: left;
+}
+
+.addBtn{
+   background-color: #222 !important;
+   border: 1px solid #222 !important;
+   display: flex !important;
+   margin-left: auto;
+   border-radius: 3px !important;
+   padding: 10px 15px !important;
+}
+
+a{
+  text-decoration: none !important;
+}
+
+th ,td{
+  text-align: left;
+}

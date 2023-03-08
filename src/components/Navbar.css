@@ -1,0 +1,27 @@
+.topbar {
+    background: #8b70b3 !important;
+    padding: 10px !important;
+}
+
+.categories {
+    background: #f7f7f7 !important;
+    border-bottom: 1px solid #e0e0e0 !important;
+}
+
+.inputBox {
+    width: 500px !important;
+    margin: auto !important;
+    border-radius: 3px !important;
+}
+
+.inputBox:focus {
+    box-shadow: none;
+}
+
+.topbar .adminBtn {
+    background-color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: #222;
+    text-decoration: none;
+}

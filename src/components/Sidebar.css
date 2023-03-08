@@ -1,0 +1,15 @@
+aside.sidebar{
+    position:fixed;
+    width: 300px;
+    background: white;
+    left: 0;
+    top:60px;
+    height: 100vh;
+    box-shadow: 1px 1px 1px silver;
+    z-index: 1;
+}
+
+.link{
+    list-style-type: none;
+    padding: 10px 50px;
+}

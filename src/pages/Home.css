@@ -1,0 +1,6 @@
+.cover{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: url(../images/card.jpg);
+    background-size: cover;
+}
